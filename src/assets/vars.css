@@ -1,0 +1,10 @@
+
+:root {
+	--color-primary: rgba(1, 193, 230, 1);
+	--color-primary-alpha: rgba(1, 193, 230, .3);
+	--color-secondary: #1e252f;
+	--color-tertiary: #e13d79;
+	--color-light: #fff;
+	--color-box-bg: #14191f;
+	--color-box-bg-light-alpha: rgba(30, 37, 47, .8);
+}
