@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktogg_dashboard"]=self["webpackChunktogg_dashboard"]||[]).push([[443],{5415:function(t,n,s){s.r(n),s.d(n,{default:function(){return i}});var u=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],r=s(1001),e={},l=(0,r.Z)(e,u,a,!1,null,null,null),i=l.exports}}]);
+//# sourceMappingURL=about.a497cb58.js.map
